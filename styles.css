@@ -1,0 +1,72 @@
+body{
+    background-color:rgb(254, 236, 213);
+}
+
+h1,h2,h3,h4{
+    color: rgb(32, 164, 169);
+}
+
+li{
+    color:black;
+    font-style: bold;
+}
+
+table{
+    border-collapse: collapse;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td{
+    padding:8px;
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+tr:nth-child(even){
+    background-color:rgb(155,202,236);
+}
+
+input{
+    background-color: rgb(155,202,236);
+}
+
+.pictureQuotes{
+    font-style: italic; color: rgb 12,76,78;
+}
+
+#box-model{
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-color: rgb(155, 202, 236);
+    margin-left: auto;
+    margin-right: auto;
+    width:25%;
+    
+}
+
+.centertext{
+    text-align: center;
+}
+
+.largefont{
+    font-size: 60px;
+    text-align: center;
+}
+
+.largestfont{
+    font-size: 80px;
+    text-align: center;
+}
+
+.moveright{
+    float:right;
+}
+
+.center{
+    float:center;
+}
+
